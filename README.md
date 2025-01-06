@@ -5,7 +5,6 @@ Le projet `apt_install_locally` permet d'installer localement un package Debian 
 
 ## Prérequis
 - Python 3.x
-- Accès root ou sudo pour l'installation des packages via `apt-get`.
 
 ## Installation et Utilisation
 
