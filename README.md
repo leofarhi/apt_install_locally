@@ -24,7 +24,7 @@ export LD_LIBRARY_PATH=$(find /<path_repo>/usr/lib -type d | tr '\n' ':')$LD_LIB
 
 N'oubliez pas de remplacer `/<path_repo>` par le chemin réel où vous avez téléchargé le script.
 
-Après avoir ajouté cette ligne, rechargez votre fichier `.bashrc` avec la commande suivante :
+Après avoir ajouté ces lignes, rechargez votre fichier `.bashrc` avec la commande suivante :
 
 ```bash
 source ~/.bashrc
